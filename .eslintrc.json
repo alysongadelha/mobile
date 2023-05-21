@@ -1,0 +1,10 @@
+{
+  "extends": [
+    // "@rocketseat/eslint-config/react"
+  ],
+  "rules": { "camelcase": "off" },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2020
+  }
+}
